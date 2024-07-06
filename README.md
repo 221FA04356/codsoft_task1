@@ -14,6 +14,7 @@ This is a simple calculator program written in Python that performs basic arithm
 ## How to Use
 
 1. Clone the repository:
+
     git clone https://github.com/221FA04356/codsoft_task1.git
 
     cd calculator.py
