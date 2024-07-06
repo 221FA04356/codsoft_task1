@@ -14,13 +14,14 @@ This is a simple calculator program written in Python that performs basic arithm
 ## How to Use
 
 1. Clone the repository:
-    git clone https://github.com/yourusername/simple-calculator.git
-    cd simple-calculator
+    https://github.com/221FA04356/codsoft_task1.git
 
 2. Run the program:
     python calculator.py
 
-3. Follow the prompts to enter two numbers and select an operation.
+3. Follow the prompts to select an operation and to enter two numbers.
+
+4. Perform the calculation and display the result. Prompt the user if they want to perform another calculation.
 
 ## Example
 
