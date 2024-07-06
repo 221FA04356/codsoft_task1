@@ -25,13 +25,17 @@ This is a simple calculator program written in Python that performs basic arithm
 ## Example
 
 How the calculator works:
+
 Select operation:
 1. Add
 2. Subtract
 3. Multiply
 4. Divide
 5. Modulus
+
+OUTPUT:
 Enter choice (1/2/3/4/5): 1
 Enter first number: 10
 Enter second number: 5
 10 + 5 = 15
+Do you want to perform another calculation? (yes/no): 
