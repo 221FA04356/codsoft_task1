@@ -43,6 +43,6 @@ Enter first number: 10
 
 Enter second number: 5
 
-10 + 5 = 15
+Result: 15  [since 10 + 5 = 15 ]
 
 Do you want to perform another calculation? (yes/no): 
