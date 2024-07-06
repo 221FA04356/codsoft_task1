@@ -1,4 +1,4 @@
-# codsoft_taskNumber1
+# codsoft_taskNumber2
 # Simple Calculator
 
 This is a simple calculator program written in Python that performs basic arithmetic operations such as addition, subtraction, multiplication, division and modulo.
