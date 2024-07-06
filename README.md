@@ -17,7 +17,7 @@ This is a simple calculator program written in Python that performs basic arithm
 
     git clone https://github.com/221FA04356/codsoft_task1.git
 
-    cd calculator.py
+    cd calculator
    
 
 3. Run the program:
