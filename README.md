@@ -34,8 +34,14 @@ Select operation:
 5. Modulus
 
 OUTPUT:
+
+
 Enter choice (1/2/3/4/5): 1
+
 Enter first number: 10
+
 Enter second number: 5
+
 10 + 5 = 15
+
 Do you want to perform another calculation? (yes/no): 
